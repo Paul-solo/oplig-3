@@ -162,7 +162,7 @@ int main()
 					cin >> inputstring3;
 					cout << "type inn the new name\n";
 					cin >> inputstring4;
-					activeFolder->getFolder(inputstring2)->files(inputstring3).name = inputstring4;
+					//activeFolder->getFolder(inputstring2)->files[i].name = inputstring4;
 					break;
 
 				case 2:
